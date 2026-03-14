@@ -11,11 +11,11 @@ The dataset contains images labeled as:
 * Muffin
 * Undefined
   
-Training
+Training:
 Run the training script:
 python /train.py
 
-Predictionn:
+Prediction:
 Generate predictions using:
 python predict.py
 
